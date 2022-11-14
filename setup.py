@@ -14,7 +14,7 @@ setup(
     url = "https://github.com/jespino/django-lot",
     author = "Jesús Espino, Curtis Malone",
     author_email = "jespinog@gmail.com, curtis@tinbrain.net",
-    version='v0.2.2.1',
+    version='0.2.4',
     packages = [
         "lot",
         "lot.migrations",
